@@ -1,0 +1,1 @@
+Esse código em C tem como objetivo calcular o valor final de uma consulta médica com base na especialidade escolhida pelo usuário e no turno de atendimento. Foi utilizado Switch Case como uma estrutura de controle condicional que executa diferentes blocos de código dependendo do valor de uma variável (como a especialidade ou o turno)
